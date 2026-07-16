@@ -1,0 +1,1 @@
+export default function Characters(){return <section className="cards"><article><h2>秦始皇</h2><p>千古一帝体验未来科技，重新定义帝国未来。</p></article><article><h2>网吧掌柜</h2><p>用现代知识改变大秦文明轨迹。</p></article></section>}

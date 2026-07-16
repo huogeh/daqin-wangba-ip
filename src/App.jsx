@@ -1,0 +1,1 @@
+export default function App(){return <main><h1>我在大秦开网吧：始皇连夜充值</h1><p>秦朝帝国与未来科技融合的小说IP官网</p></main>}

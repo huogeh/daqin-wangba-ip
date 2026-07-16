@@ -1,0 +1,1 @@
+export default function World(){return <section className="cards"><article><h2>大秦新时代</h2><p>网吧成为帝国科技中心，六国未灭，文明先升级。</p></article></section>}
